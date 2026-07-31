@@ -195,7 +195,7 @@ function ExamForm({ exam, adminId, onClose, onSaved }: {
     };
     const { error } = exam
       ? await supabase.from('exams').update(payload).eq('id', exam.id)
-      : await supabase.from('exams').insert({ ...payload, status: 'draft' });
+      : await supabase.from('exams').insert({ ...payload, status: 'published' });
     setSaving(false);
     if (error) { toast('Failed to save exam', 'error'); return; }
     toast(exam ? 'Exam updated' : 'Exam created', 'success');

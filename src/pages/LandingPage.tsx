@@ -74,9 +74,6 @@ export function LandingPage() {
                 Sign in
               </Link>
             </div>
-            <p className="mt-4 text-sm text-slate-400">
-              Demo admin: admin@smartexam.com / Sm@rtEx@m#2026
-            </p>
           </div>
         </div>
       </section>

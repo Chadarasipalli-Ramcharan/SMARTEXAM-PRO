@@ -226,10 +226,4 @@ The project is deployed using **Vercel**.
 
 ---
 
-# 📄 License
-
-This project is developed for **educational purposes** as part of an **Online Examination Management System Assignment**.
-
----
-
 # ⭐ If you found this project useful, don't forget to give it a Star on GitHub!

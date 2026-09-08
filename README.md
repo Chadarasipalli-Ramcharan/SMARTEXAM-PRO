@@ -1,6 +1,6 @@
 ## 🎓SmartExam Pro – Online Examination Management System
 
- **Welcome to SmartExam Pro** — a modern, secure, and intelligent **Online Examination Management System** that streamlines the complete examination lifecycle with modern UI/UX, secure authentication, real-time database integration, and automatic result evaluation, delivering a seamless, end-to-end digital assessment experience for educational institutions. *powered by*...
+> **Welcome to SmartExam Pro** — a modern, secure, and intelligent **Online Examination Management System** that streamlines the complete examination lifecycle with modern UI/UX, secure authentication, real-time database integration, and automatic result evaluation, delivering a seamless, end-to-end digital assessment experience for educational institutions. *powered by*...
 
 ---
 
